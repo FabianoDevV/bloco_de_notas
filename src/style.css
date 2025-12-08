@@ -1,0 +1,55 @@
+:root {
+  --color-principal-: #101622;
+  --color-search-: #18202d;
+  --color-icons-: #2b6cee;
+  --transition-all-: all 0.5s;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: var(--color-principal-);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#page {
+  display: flex;
+}
+
+/* Mobile: 320px - 767px */
+@media (max-width: 767px) {
+  body {
+    font-size: 14px;
+  }
+
+  #page {
+    flex-direction: column;
+    width: 100%;
+  }
+}
+
+/* Tablet: 768px - 1023px */
+@media (min-width: 768px) and (max-width: 1023px) {
+  body {
+    font-size: 15px;
+  }
+
+  #page {
+    flex-direction: row;
+  }
+}
+
+/* Desktop: 1024px+ */
+@media (min-width: 1024px) {
+  body {
+    font-size: 16px;
+  }
+
+  #page {
+    flex-direction: row;
+  }
+}
