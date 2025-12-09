@@ -357,6 +357,7 @@ aside .btnsSecNew .salvar {
     height: auto;
     padding: 15px;
     border-radius: 5px;
+    box-sizing: border-box;
   }
 
   aside form .titleNew {
