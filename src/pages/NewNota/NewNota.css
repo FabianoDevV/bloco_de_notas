@@ -300,7 +300,7 @@ aside .btnsSecNew .descartar {
   background: transparent;
   color: white;
   padding: 15px 25px;
-  margin: 10px;
+  margin-bottom: 20px;
   cursor: pointer;
   transition: var(--transition-all-);
   border-radius: 10px;
@@ -319,6 +319,7 @@ aside .btnsSecNew .salvar {
   border: none;
   border-radius: 10px;
   background-color: blue;
+  height: fit-content;
   color: white;
   cursor: pointer;
   transition: var(--transition-all-);
