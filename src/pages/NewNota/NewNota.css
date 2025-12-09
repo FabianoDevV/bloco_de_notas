@@ -35,7 +35,6 @@ aside form {
   width: 100%;
   max-width: 700px;
   border-radius: 10px;
-  box-sizing: border-box;
 }
 
 aside form .titleNew {
