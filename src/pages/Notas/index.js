@@ -23,37 +23,7 @@ export default function Notas() {
       </div>
 
       <div class="NotasPrev">
-        <div class="cardsNotasPrev">
-          <h2>Ideias para projeto X</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eum,
-            soluta rerum consequuntur minus dolorem, eius earum adipisci omnis
-            quisquam, magnam cumque. Ea, illo tempore. Numquam minima vero aliquid
-            voluptates.
-          </p>
-
-          <span>Criado em: 10/02/2020 </span>
-        </div>
-        <div class="cardsNotasPrev">
-          <h2>Ideias para projeto X</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eum,
-            soluta rerum consequuntur minus dolorem, eius earum adipisci omnis
-            quisquam, magnam cumque. Ea, illo tempore. Numquam minima vero aliquid
-            voluptates.
-          </p>
-          <span>Criado em: 10/02/2020 </span>
-        </div>
-        <div class="cardsNotasPrev">
-          <h2>Ideias para projeto X</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eum,
-            soluta rerum consequuntur minus dolorem, eius earum adipisci omnis
-            quisquam, magnam cumque. Ea, illo tempore. Numquam minima vero aliquid
-            voluptates.
-          </p>
-          <span>Criado em: 10/02/2020 </span>
-        </div>
+        
       </div>
     </article>
 

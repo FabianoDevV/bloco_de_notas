@@ -107,6 +107,7 @@ section .cardNota {
 
 section .cardNota h3 {
   margin-top: 60px;
+  text-align: center;
 }
 
 section .cardNota h1 {
@@ -145,7 +146,7 @@ section .cardNota p {
     /* Article flutuante e fixado */
     position: fixed;
     left: 0;
-    top: 40px;
+    top: 60px;
     bottom: 0;
     z-index: 999;
     background-color: var(--color-principal-);
