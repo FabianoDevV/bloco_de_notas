@@ -2,7 +2,7 @@
   --color-principal-: #101622;
   --color-search-: #18202d;
   --color-icons-: #2b6cee;
-  --transition-all-: all 0.5s;
+  --transition-all-: all 0.5s ease;
 }
 
 * {
